@@ -13,6 +13,8 @@ MD5 is a hashing function which creates a 16-byte hash value (usually represente
 * Crack a hash:
 
     * Online [here](http://www.md5decrypter.co.uk/)
+    * John the Ripper
+    * Hashcat 
 
 ## More
 
